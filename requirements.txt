@@ -1,0 +1,15 @@
+# core
+requests
+numpy
+scikit-learn
+python-dotenv
+
+# opensearch
+opensearch-py
+
+# nlp
+nltk
+sentence-transformers
+
+# data
+pandas
